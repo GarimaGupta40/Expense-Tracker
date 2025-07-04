@@ -3,8 +3,25 @@
 A full-stack MERN (MongoDB, Express, React, Node.js) application to manage and analyze personal expenses and income. Built with a focus on clean UI, authentication, and analytics.
 
 ## 📸 Screenshots
+### 📝 Register Page
+![Register](client/public/ss/register.jpg)
 
-> 
+### 🔐 Login
+![Login](client/public/ss/login.jpg)
+
+### ✅ Login Successful
+![Login Successful](client/public/ss/login%20successful.jpg)
+
+### 🏠 Home Page
+![Home](client/public/ss/home%20page.jpg)
+
+### 📊 Analytics Page
+![Analytics](client/public/ss/analytics%20page.jpg)
+
+
+### ➕ Add New Transaction
+![Add Transaction](client/public/ss/Add%20New%20Transaction.jpg)
+
 ---
 
 ## ✨ Features
@@ -51,8 +68,11 @@ A full-stack MERN (MongoDB, Express, React, Node.js) application to manage and a
    npm start
 
    👩‍💻 Author
+   
    Garima Gupta
+   
    🔗 www.linkedin.com/in/garima-gupta-918052250
+   
    📧 garimagupta112003@gmail.com
 
 
