@@ -2,6 +2,9 @@
 
 A full-stack MERN (MongoDB, Express, React, Node.js) application to manage and analyze personal expenses and income. Built with a focus on clean UI, authentication, and analytics.
 
+### 🚀 Live Demo
+[https://expense-tracker-osce.onrender.com/](https://expense-tracker-osce.onrender.com/)
+
 ## 📸 Screenshots
 ### 📝 Register Page
 ![Register](client/public/ss/register.jpg)
