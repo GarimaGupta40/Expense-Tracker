@@ -41,7 +41,6 @@ A full-stack MERN (MongoDB, Express, React, Node.js) application to manage and a
 
 **Frontend:**
 - React.js
-- Ant Design
 - Axios
 - Bootstrap
 
